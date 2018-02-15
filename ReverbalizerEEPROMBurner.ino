@@ -7,7 +7,7 @@
 #include <avr/pgmspace.h>
 #include "ROM1.h"
 #include "ROM2.h"
-#include "ROM3.h"*/
+#include "ROM3.h"
 #include "ROM4.h"
 #include "ROM5.h"
 #include "ROM6.h"
